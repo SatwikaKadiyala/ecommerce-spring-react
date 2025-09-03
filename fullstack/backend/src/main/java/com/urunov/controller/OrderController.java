@@ -34,10 +34,10 @@ import java.util.List;
 
 /**
  * Created by:
- * User: hamdamboy
- * Project: IntelliJ IDEA
- * Github: @urunov
+ * User: satwika
+ * this part represents
  */
+
 
 @RestController
 @RequestMapping("/api")
