@@ -23,10 +23,10 @@ import java.util.Optional;
 
 /**
  * Created by:
- * User: hamdamboy
- * Project: IntelliJ IDEA
- * Github: @urunov
+ * User: satwika
+ * this part represents
  */
+
 @RestController
 @RequestMapping("/api")
 @CrossOrigin(origins = "http://localhost:8080")
