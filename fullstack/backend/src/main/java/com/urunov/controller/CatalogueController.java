@@ -18,10 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Created by:
- * User: hamdamboy
- * Project: IntelliJ IDEA
- * Github: @urunov
- *
+ * User: satwika
  * this part represents
  */
 
